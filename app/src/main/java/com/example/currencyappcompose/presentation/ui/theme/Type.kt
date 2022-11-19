@@ -1,4 +1,4 @@
-package com.example.currencyappcompose.ui.theme
+package com.example.currencyappcompose.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
